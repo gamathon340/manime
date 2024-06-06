@@ -1,0 +1,90 @@
+body{
+background-color: #040409;    
+}
+header{
+    background-color: #7a4cba;
+    padding: 20px;
+    text-align: center; 
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+    top: 0;
+    left: 0;
+}
+ #webname{
+color: #84b2bb;
+border: 8px solid #84b2bb;
+padding: 5px 7px;
+display: inline-block;
+border-radius: 20px;
+ }
+
+ul{
+white-space: nowrap;
+max-width: 1200px;
+margin: 0 auto;
+text-decoration: none;
+}
+li{
+ width: 25%;
+ display: inline-block;
+}
+li a{
+ text-decoration: none;
+ color: #08080f;
+}
+.homebanner{
+padding: 20px;
+position: sticky;
+top: 119px;
+background-color: #c3c8cd;    
+font-size: 20px;
+
+}
+.imgcover img{
+  max-width: 100% ;  
+  max-height: 100% ;
+}
+.bleach{
+ font-size: 40px; 
+ color: white;  
+ font-family: Arial;
+}
+a[href="/wtwb.html"]{
+text-decoration: none;
+font-size: 40px; 
+ color: white;  
+ font-family: Arial;
+}
+.bleachov{
+color: #c3c8cd;
+font-size: 29px;
+}
+.bleachar{
+  color: beige;  
+  font-size: 19px;
+  font-family: Georgia;
+}
+.bleachpics img{
+max-width: 200%;
+white-space: nowrap;
+display: inline-block;
+}  
+h2.genreofbleach{
+ color: beige;   
+ font: 1em sans-serif;
+ text-decoration: wavy;
+}
+.p4genre{
+text-align: left;
+color: beige;
+text-decoration: dotted;
+}
+.p4genre p{
+padding: -35px;
+}
+ul.watchbleach{
+font-size: 30px;
+color: beige;
+text-decoration: none;
+}

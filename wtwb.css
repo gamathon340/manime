@@ -1,0 +1,56 @@
+header{
+    background-color: #7a4cba;
+    padding: 20px;
+    text-align: center; 
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+    top: 0;
+    left: 0;
+}
+ #webname{
+color: #84b2bb;
+border: 8px solid #84b2bb;
+padding: 5px 7px;
+display: inline-block;
+border-radius: 20px;
+ }
+
+
+
+
+
+
+
+body{
+ background-color: black;   
+}
+a[href="home.html"]{
+color: beige;
+font-size: 40px;
+ font-style: italic;
+ padding-bottom: -300px;
+}
+img{
+max-width: 100%;
+max-height: 100%;
+}
+ul{
+text-decoration: none;
+}
+.animepahebleach{
+font-size: 30px;
+text-decoration: none;
+color: black;
+}
+a[href="https://animepahe.ru/anime/0cda3b28-49b7-0c10-8901-c1ab529b1ab7"]{
+text-decoration: none;
+color: beige;
+}
+.animedaobleach{
+font-size: 30px;
+}
+a[href="https://animedao.bz/anime/bleach"]{
+ color: beige;   
+ text-decoration: none;
+}
